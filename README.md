@@ -33,9 +33,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=plmv-luks&hide_border=true&theme=dark&background=0D1117&ring=3FB950&fire=3FB950" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://ghchart.rshah.org/3FB950/plmv-luks" alt="Contribution Chart" />
 </p>
