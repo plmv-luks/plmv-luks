@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=plmv-luks&theme=github&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=plmv-luks&theme=github&hide_border=true&year=2026" alt="Activity Graph" />
 </p>
 
 <p align="center">
