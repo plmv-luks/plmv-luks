@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o plmv-luks 👋</h1>
 
-<!--
-**plmv-luks/plmv-luks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- TODO: escreva sua apresentação aqui -->
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">🚀 Stack avançada</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,lua" alt="TypeScript, JavaScript, Python, Lua" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🌱 Aprendendo</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=plmv-luks&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plmv-luks&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
