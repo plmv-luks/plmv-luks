@@ -31,6 +31,20 @@
   </a>
 </p>
 
+## 📂 Meus repositórios
+
+<p align="center">
+  <a href="https://github.com/plmv-luks/Gerador-de-senha">
+    <img src="https://img.shields.io/badge/Gerador--de--senha-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="Gerador de senha" />
+  </a>
+  <a href="https://github.com/plmv-luks/discord-ticket-bot">
+    <img src="https://img.shields.io/badge/discord--ticket--bot-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="discord ticket bot" />
+  </a>
+  <a href="https://github.com/plmv-luks/bios-minha-do-discord">
+    <img src="https://img.shields.io/badge/bios--minha--do--discord-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="bios minha do discord" />
+  </a>
+</p>
+
 ## 🚀 Linguagens
 
 <p align="center">
