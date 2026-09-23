@@ -23,14 +23,6 @@
 - 🗄️ Tenho experiência com bancos de dados como **Redis, MySQL e MongoDB**.
 - 🚀 Sempre com algum projeto pessoal em andamento pra praticar e aprender coisas novas.
 
-## 📌 Projetos em destaque
-
-<p align="center">
-  <a href="https://github.com/plmv-luks/Gerador-de-senha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=plmv-luks&repo=Gerador-de-senha&theme=dark_dimmed&hide_border=true" alt="Gerador de senha" />
-  </a>
-</p>
-
 ## 📂 Meus repositórios
 
 <p align="center">
