@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </p>
 
-## ⚛️ Framework
+## ⚛️ Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
