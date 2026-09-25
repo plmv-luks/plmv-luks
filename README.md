@@ -23,7 +23,7 @@
 - 🗄️ Tenho experiência com bancos de dados como **Redis, MySQL e MongoDB**.
 - 🚀 Sempre com algum projeto pessoal em andamento pra praticar e aprender coisas novas.
 
-## 📂 Meus repositórios
+## 📂 Meus repositórios públicos
 
 <p align="center">
   <a href="https://github.com/plmv-luks/Gerador-de-senha">
@@ -34,7 +34,7 @@
   </a>
 </p>
 
-## 🚀 Linguagens
+## 🚀 Linguagens que eu gosto 
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -43,13 +43,13 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </p>
 
-## ⚛️ Framework
+## ⚛️ Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
-## 🗄️ Bancos de dados
+## 🗄️ Bancos de dados e Armazenamento
 
 <p align="center">
   <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-## 🛠️ Ferramentas
+## 🛠️ Ferramentas Utilizadas
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -66,6 +66,7 @@
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
 
 ## 🌱 Aprendendo
 
